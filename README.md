@@ -1,6 +1,6 @@
-# OpenPrinting GSoC Evaluation Task: Fuzzing CUPS with OSS-Fuzz and AFL++
+# OpenPrinting Evaluation Task: Fuzzing CUPS with OSS-Fuzz and AFL++
 
-This document tracks my progress in running `fuzz_ipp` with OSS-Fuzz and fuzzing CUPS with AFL++ as part of the OpenPrinting GSoC evaluation task.
+This document tracks my progress in running `fuzz_ipp` with OSS-Fuzz and fuzzing CUPS with AFL++ as part of the OpenPrinting evaluation task.
 
 ## Task 1: Running `fuzz_ipp` in OSS-Fuzz
 
